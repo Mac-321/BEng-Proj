@@ -3,8 +3,8 @@ Dissertation Project for BEng.
 
 Project Title: Modelling the behaviour of the Primary Visual Cortex (PVC)
 
-The project uses spiking neural networks. A more biologically realisitc implementation of nodes in ANN's. The project intended to model a singular visual column from the V1 cortex as accurately as possible. It models  neurons both inhibitory and excitary neurons. The learning algorithm used is Spike Timing dependent plasticity (STDP) and uses the Izhikevich model to simulate the indvidual neuron behaviour.
-![image](https://github.com/user-attachments/assets/bc5e177c-29ee-4887-bf62-0e95d93e4074)![image](https://github.com/user-attachments/assets/0c8d84a6-50e5-4943-ad74-aaeafc1cf753)
+The project uses spiking neural networks. A more biologically realisitc implementation of nodes in ANN's. The project intended to model a singular visual column from the V1 cortex as accurately as possible. It models most neurons from the below diagrams as expanding the architecture proposed unstability in the design which couldnt be solved at the time. The model includes both inhibitory and excitary neuron behaviour. The learning algorithm used is Spike Timing dependent plasticity (STDP) and uses the Izhikevich model to simulate the indvidual neuron behaviour.
+![image](https://github.com/user-attachments/assets/bc5e177c-29ee-4887-bf62-0e95d93e4074)![image](https://github.com/user-attachments/assets/ae7089ab-f2cd-4d28-9af2-2ad89905cee6)
 
 Design structures undsertsood from [1][2]
 
