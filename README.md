@@ -12,6 +12,10 @@ Design structures undsertsood from [1][2]
 
 Included demo of input from webcam, converted into an image represented by neuron spikes to emulate a neuromorphic camera. These inputs then feed into a singular Izhikevich neuron. It is a singular neuron to ensure demonstration ran at acceptable speed.
 
+Example output from model from live camera feed. These emulations of neuromorphic cameras were apart of an exploration of engineering applications of the model, how and where complex asynchronous models could be applied to vision tasks that required power efficiency.
+![image](https://github.com/user-attachments/assets/1bb10ed6-982d-42e6-8531-d43bfda69c40)
+
+
 
 [1] E. R. Kandel, J. H. Schwartz, T. M. Jessell,
 S. A. Siegelbaum, and A. J. Hudspeth, Principles
