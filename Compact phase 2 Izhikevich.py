@@ -2,10 +2,8 @@ from brian2 import*
 import matplotlib as plt
 
 # Benjamin McCann
-# Some code isnt put into functions as it changes the simulation output
 # Project uses Brian2 package sourced at [69]
 
-#Converted David Halliday Matlab Function in python [50]
 # This function compares individual spike times in the array of input spikes
 #to spikes in the output array
 def cross_correlation_func(InputSpikes,OutputSpikes,binSize):
